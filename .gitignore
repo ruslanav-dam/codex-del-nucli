@@ -1,0 +1,38 @@
+# --- Java ---
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# --- IDE ---
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+*.iws
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Node ---
+node_modules/
+dist/
+
+# --- Secrets (NO commitejar mai) ---
+.env
+.env.local
+*.key
+*.pem
+secrets.json
+credentials.json
