@@ -8,3 +8,4 @@ Exemple: `[FORJADOR-Adrià] FOC`
 
 ## Runes inscrites
 
+[BRANCHWALKER-Danil] BRANCH
