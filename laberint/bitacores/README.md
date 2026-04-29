@@ -24,7 +24,6 @@ Cada fitxer `BITACORA-R<N>.md` ha de contenir:
 3. **Què he provat i què ha funcionat** — comandes copiades del teu terminal, en ordre
 4. **Conclusió** — una frase: què he après que no sabia abans
 
-> ⚠️ **La bítacora val tant com la solució en si.** Un repte resolt sense bítacora
-> explicativa = mig punt. Un repte mig-resolt amb bítacora honesta i raonada = punt sencer.
+> La bítacora val tant com la solució en si. Un repte resolt sense bítacora explicativa = mig punt. Un repte mig-resolt amb bítacora honesta i raonada = punt sencer.
 
 Veure el brief complet a [MISIO-LABERINT-ALUMNES.md](../../MISIO-LABERINT-ALUMNES.md).

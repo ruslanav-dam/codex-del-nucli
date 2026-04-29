@@ -1,27 +1,29 @@
-# 🌀 Còdex del Nucli
+**La Salle Tarragona — DAM**
 
-Repositori d'aprenentatge **Git / GitHub** — La Salle Tarragona.
+# Còdex del Nucli
+
+Repositori d'aprenentatge **Git / GitHub**.
 
 ---
 
-## 🎯 Activitat actual: El Laberint del Nucli
+## Activitat actual: El Laberint del Nucli
 
 Sis reptes graduats per dominar les situacions reals de Git en equip
-(push rebutjat, conflictes, commits a `main` per error, revert, reflog…).
+(push rebutjat, conflictes, commits a `main` per error, revert, reflog...).
 
-📖 **Brief complet per als alumnes**: [MISIO-LABERINT-ALUMNES.md](MISIO-LABERINT-ALUMNES.md)
+**Brief complet per als alumnes**: [MISIO-LABERINT-ALUMNES.md](MISIO-LABERINT-ALUMNES.md)
 
 ---
 
-## 📚 Receptari de consulta
+## Receptari de consulta
 
 Quan us trobeu amb un error o dubte, primera parada **abans de demanar ajuda al master**:
 
-👉 **https://ruslanav-dam.github.io/repositorisLIVE** → secció **"Què faig si...?"**
+https://ruslanav-dam.github.io/repositorisLIVE → secció **"Què faig si...?"**
 
 ---
 
-## 🗺️ Estructura del repositori
+## Estructura del repositori
 
 ```
 /laberint/
@@ -36,12 +38,12 @@ Quan us trobeu amb un error o dubte, primera parada **abans de demanar ajuda al 
 
 ---
 
-## ⚔️ El Gremi
+## El Gremi
 
 | Branchwalker | Classe |
 |---|---|
-| Daniil | 🌿 BRANCHWALKER |
-| Norman | ⚔️ MERGEMANCER |
-| Stefano | 🕰️ CRONOMANTE |
-| Adrià | 🔨 FORJADOR |
-| Hector | 📡 NETRUNNER |
+| Daniil | BRANCHWALKER |
+| Norman | MERGEMANCER |
+| Stefano | CRONOMANTE |
+| Adrià | FORJADOR |
+| Hector | NETRUNNER |
