@@ -114,7 +114,7 @@ Exemple: `[FORJADOR-Adrià] FOC`
 - El PR conté un `.gitignore` actualitzat (mínim: `credencials-fake.txt`, `.env`)
 - El PR té un commit que treu el fitxer del seguiment
 - El fitxer encara existeix a la teva carpeta local
-- `git check-ignore laberint/r2/credencials-fake.txt` confirma que està ignorat
+- `git check-ignore laberint/r2/<el-meu-nom>credencials-fake.txt` confirma que està ignorat
 - BITACORA-R2.md
 
 **Pista**: receptari → *He commitejat un fitxer que no havia*. Atenció a la trampa: `rm` no és la resposta.
