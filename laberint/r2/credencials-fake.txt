@@ -1,5 +1,0 @@
-# Aquest fitxer NO hauria d'estar al repo. Forma part del repte R2.
-# Tots els valors són FALSOS.
-API_KEY=fake-secret-12345-no-es-real
-DB_PASSWORD=tampoc-es-real
-TOKEN=tots-aquests-valors-son-de-mentida
