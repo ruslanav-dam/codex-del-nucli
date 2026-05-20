@@ -1,1 +1,2 @@
-function calcular() { return 2 + 2; }
+soy hacker profesional he roto el código Google me envidida
+
