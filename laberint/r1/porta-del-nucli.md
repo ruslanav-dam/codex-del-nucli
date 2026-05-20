@@ -8,3 +8,6 @@ Exemple: `[FORJADOR-Adrià] FOC`
 
 ## Runes inscrites
 [CRONOMANTE-Stefano] TEMPS[MERGEMANCER-Norman] TORMENTA
+
+[BRANCHWALKER-Danil] BRANCH
+[FORJADOR-Adrià] FOC
