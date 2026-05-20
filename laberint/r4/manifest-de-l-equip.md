@@ -9,4 +9,4 @@ Som un grup de Branchwalkers compromesos amb el Còdex.
 ## Compromisos
  Aprobar DAM
  Realizar Practicas DAM
- Pasarlo Bien
+ Pasarlo Bien.
