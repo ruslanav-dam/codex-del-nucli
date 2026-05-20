@@ -1,0 +1,1 @@
+Això és un text BO!!!!! GOOD, GUT, XOROSHO, BIEN
