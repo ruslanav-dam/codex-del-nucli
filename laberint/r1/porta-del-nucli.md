@@ -7,4 +7,4 @@ Format: `[CLASSE-Nom] PARAULA_DE_PODER`
 Exemple: `[FORJADOR-Adrià] FOC`
 
 ## Runes inscrites
-
+[CRONOMANTE-Stefano] TEMPS
