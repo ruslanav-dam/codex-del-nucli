@@ -36,3 +36,5 @@ dist/
 *.pem
 secrets.json
 credentials.json
+credencials-fake.txt
+.env
